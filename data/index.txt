@@ -1,0 +1,2 @@
+index: this is some magic data!
+hello from the server
